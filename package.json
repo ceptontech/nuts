@@ -24,6 +24,7 @@
     "stream-res": "1.0.1",
     "strip-bom": "2.0.0",
     "understudy": "4.1.0",
+    "url": "^0.11.0",
     "urljoin.js": "0.1.0",
     "uuid": "2.0.1"
   },
